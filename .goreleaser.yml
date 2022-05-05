@@ -1,0 +1,18 @@
+builds:
+  - id: uplift
+    binary: uplift-demo
+    env:
+      - CGO_ENABLED=0
+    goos:
+      - linux
+    goarch:
+      - amd64
+
+announce:
+  skip: "{{gt .Patch 0}}"
+
+  slack:
+    enabled: true
+    message_template: "Uplift Demo {{ .Tag }} has now been released. Find out details here: https://github.com/ga-paul-t/uplift-demo/releases/tag/{{ .Tag }}"
+    channel: "#gemba-exploration"
+    username: "Uplift"
