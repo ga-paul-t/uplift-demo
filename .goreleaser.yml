@@ -13,6 +13,7 @@ announce:
 
   slack:
     enabled: true
-    message_template: "Uplift Demo {{ .Tag }} has now been released. Find out details here: https://github.com/ga-paul-t/uplift-demo/releases/tag/{{ .Tag }}"
+    # message_template: "Uplift Demo {{ .Tag }} has now been released. Find out details here: https://github.com/ga-paul-t/uplift-demo/releases/tag/{{ .Tag }}"
+    message_template: "{{ .ReleaseNotes }}"
     channel: "#general"
     username: "Uplift"
