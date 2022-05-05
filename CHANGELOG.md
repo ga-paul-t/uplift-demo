@@ -6,6 +6,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unreleased
 
+## [0.3.0](https://github.com/ga-paul-t/uplift-demo/releases/tag/0.3.0) - 2022-05-05
+
+- [`ecd9720`](https://github.com/ga-paul-t/uplift-demo/commit/ecd972089bece78cb7602c48e615c80a36901696) feat: first new exciting feature
+- [`0c1d22e`](https://github.com/ga-paul-t/uplift-demo/commit/0c1d22e56ac21e91f9fe3688d196339b2bae8efb) ci: change slack notification channel
+- [`2f2b42e`](https://github.com/ga-paul-t/uplift-demo/commit/2f2b42ef859b7975f26c73badec1f4a12eeb0104) feat: first new exciting feature
+- [`8549bbb`](https://github.com/ga-paul-t/uplift-demo/commit/8549bbb62124fb672f37212275f17738e88a3fac) ci: support notifications
+
 ## [0.2.0](https://github.com/ga-paul-t/uplift-demo/releases/tag/0.2.0) - 2022-05-04
 
 - [`604965a`](https://github.com/ga-paul-t/uplift-demo/commit/604965a811ec1384272141b8eee69397aac7fdf8) feat: this is a new feature
