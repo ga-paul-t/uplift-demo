@@ -13,14 +13,7 @@ announce:
 
   slack:
     enabled: true
-    # message_template: "Uplift Demo {{ .Tag }} has now been released. Find out details here: https://github.com/ga-paul-t/uplift-demo/releases/tag/{{ .Tag }}"
-    message_template: "{{ .ReleaseNotes }}"
+    message_template: "Uplift Demo {{ .Tag }} has been released. Find out details here: https://github.com/ga-paul-t/uplift-demo/releases/tag/{{ .Tag }}"
     channel: "#general"
     username: "Uplift"
-    blocks:
-      [
-        {
-          "type": "section",
-          "text": { "type": "mrkdwn", "text": "{{.ReleaseNotes}}" },
-        },
-      ]
+    icon_url: "https://github.com/gembaadvantage/uplift/raw/main/docs/content/static/logo.png"
