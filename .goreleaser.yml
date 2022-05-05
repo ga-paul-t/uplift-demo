@@ -17,3 +17,10 @@ announce:
     message_template: "{{ .ReleaseNotes }}"
     channel: "#general"
     username: "Uplift"
+    blocks:
+      [
+        {
+          "type": "section",
+          "text": { "type": "mrkdwn", "text": "{{.ReleaseNotes}}" },
+        },
+      ]
