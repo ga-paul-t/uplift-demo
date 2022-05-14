@@ -1,3 +1,7 @@
+hooks:
+  before:
+    - echo "HELLO"
+
 bumps:
   - # The path of the file relative to where uplift is executed
     file: version.json
