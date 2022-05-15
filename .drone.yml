@@ -6,7 +6,7 @@ steps:
   - name: release
     image: gembaadvantage/uplift
     commands:
-      - uplift release --dry-run
+      - uplift release --fetch-all
     when:
       branch:
         - main
