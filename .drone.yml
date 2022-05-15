@@ -12,7 +12,8 @@ steps:
       - env
       - echo $GITHUB_PAT
       - CLONE_URL=${DRONE_GIT_HTTP_URL#"https://"}
-      - git remote set-url origin "https://${GITHUB_PAT}@${CLONE_URL}"
+      - echo $CLONE_URL
+      - git remote set-url origin "https://$GITHUB_PAT@$CLONE_URL"
     when:
       branch:
         - main
