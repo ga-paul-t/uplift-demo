@@ -7,7 +7,7 @@ steps:
     image: docker:git
     environment:
       GITHUB_PAT:
-        from_secret: GITHUB_PAT
+        from_secret: github_pat
     commands:
       - CLONE_URL=${DRONE_GIT_HTTP_URL##https://}
       - git remote set-url origin https://$GITHUB_PAT@$CLONE_URL
@@ -26,3 +26,7 @@ steps:
         - main
       event:
         - push
+---
+kind: secret
+name: github_pat
+data: VLO71Ad3QSALQjELGKg5U7r92823a9e4vmu7xUw3LJ9xKwZu8XJmKG+7SykRDblo2ozeH0ZhrYTuChOPxS1Mn9jnRU8=
