@@ -8,10 +8,8 @@ steps:
     environment:
       GITHUB_PAT:
         from_secret: GITHUB_PAT
-    settings:
-      CLONE_URL: ${DRONE_GIT_HTTP_URL#"https://"}
     commands:
-      - echo $CLONE_URL
+      - echo ${DRONE_GIT_HTTP_URL##"https://"}
       - git remote set-url origin "https://$GITHUB_PAT@$CLONE_URL"
     when:
       branch:
