@@ -3,6 +3,20 @@ type: docker
 name: default
 
 steps:
+  - name: fetch
+    image: docker:git
+    environment:
+      GITHUB_PAT:
+        from_secret: GITHUB_PAT
+    commands:
+      - CLONE_URL=${DRONE_GIT_HTTP_URL#"https://"}
+      - git remote set-url origin "https://${GITHUB_PAT}@${CLONE_URL}"
+    when:
+      branch:
+        - main
+      event:
+        - push
+
   - name: release
     image: gembaadvantage/uplift
     commands:
