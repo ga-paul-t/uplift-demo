@@ -6,6 +6,25 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unreleased
 
+## [0.10.0](https://github.com/ga-paul-t/uplift-demo/releases/tag/0.10.0) - 2022-05-15
+
+- [`3464442`](https://github.com/ga-paul-t/uplift-demo/commit/34644424e5e3982c8253262ae78260b80b07bd68) feat: first new exciting feature
+- [`21dbe63`](https://github.com/ga-paul-t/uplift-demo/commit/21dbe6359272adf4392cfd3a497444fa102151ee) feat: first new exciting feature
+- [`d7d70ba`](https://github.com/ga-paul-t/uplift-demo/commit/d7d70ba4ba0cbafd65ea2d58e0f52135969b3f43) ci: final tweek
+- [`7261179`](https://github.com/ga-paul-t/uplift-demo/commit/72611793316a30a48bce9254ce691d76d26d0e60) ci: try this
+- [`c9cf605`](https://github.com/ga-paul-t/uplift-demo/commit/c9cf605d676ac860031b0c9981577356562d1123) ci: try this
+- [`f0a194c`](https://github.com/ga-paul-t/uplift-demo/commit/f0a194cc7674a341a9783f490c1143d5049f8a17) ci: try this
+- [`893b70f`](https://github.com/ga-paul-t/uplift-demo/commit/893b70ff25b755a0467e4b9ca98b17339c3b9bd1) ci: what about this
+- [`aad928e`](https://github.com/ga-paul-t/uplift-demo/commit/aad928e3311ebf77f6ccee4bf14df3776c451429) ci: how about this
+- [`1749aef`](https://github.com/ga-paul-t/uplift-demo/commit/1749aef99dc81d7c652c22e881b05a5ba8394b14) ci: try this
+- [`9e43314`](https://github.com/ga-paul-t/uplift-demo/commit/9e43314529045eb2f938d3f45ca26fc28e5391b4) ci: try this
+- [`61924b8`](https://github.com/ga-paul-t/uplift-demo/commit/61924b8771af671a72c7b331968342e94e83ae39) ci: rewrite remote origin to support pushes back to github
+- [`a76e087`](https://github.com/ga-paul-t/uplift-demo/commit/a76e08793c3324abe115a264d733804aecf5b0f5) feat: first new exciting feature
+- [`9c7a823`](https://github.com/ga-paul-t/uplift-demo/commit/9c7a823f1283f54f32302951fae81e688a0c5c9e) ci: remove github workflow
+- [`79288ea`](https://github.com/ga-paul-t/uplift-demo/commit/79288ea16cc3bc7847c75eb932323e3c7541383f) feat: first new exciting feature
+- [`565ca87`](https://github.com/ga-paul-t/uplift-demo/commit/565ca87a50fcdbd35d419750fc56e4701a4c3a9b) ci: modifications to pipeline
+- [`15fdb67`](https://github.com/ga-paul-t/uplift-demo/commit/15fdb670e5987d686f50dca97f1fd80cc9d99696) ci: add drone pipeline
+
 ## [0.9.0](https://github.com/ga-paul-t/uplift-demo/releases/tag/0.9.0) - 2022-05-14
 
 - [`7f7fdcc`](https://github.com/ga-paul-t/uplift-demo/commit/7f7fdcc815d7771e2e7f948fa7812370b5bab31e) feat: use some scripts
