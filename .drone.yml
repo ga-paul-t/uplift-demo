@@ -1,0 +1,14 @@
+kind: pipeline
+type: docker
+name: default
+
+steps:
+  - name: release
+    image: gembaadvantage/uplift
+    commands:
+      - uplift release --dry-run
+    when:
+      branch:
+        - main
+      event:
+        - push
