@@ -3,12 +3,13 @@ type: docker
 name: default
 
 steps:
-  - name: fetch
+  - name: set-remote
     image: docker:git
     environment:
       GITHUB_PAT:
         from_secret: GITHUB_PAT
     commands:
+      - env
       - CLONE_URL=${DRONE_GIT_HTTP_URL#"https://"}
       - git remote set-url origin "https://${GITHUB_PAT}@${CLONE_URL}"
     when:
