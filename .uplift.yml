@@ -3,18 +3,12 @@ hooks:
     - echo "BEFORE RELEASE"
   beforeBump:
     - echo "BEFORE BUMP"
-  beforeTag:
-    - echo "BEFORE TAG"
   beforeChangelog:
     - echo "BEFORE CHANGELOG"
   after:
     - echo "AFTER RELEASE"
-  afterBump:
-    - echo "AFTER BUMP"
   afterTag:
     - echo "AFTER TAG"
-  afterChangelog:
-    - echo "AFTER CHANGELOG"
 
 bumps:
   - # The path of the file relative to where uplift is executed
