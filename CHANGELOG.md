@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unreleased
 
+## [0.16.0](https://github.com/ga-paul-t/uplift-demo/releases/tag/0.16.0) - 2022-05-16
+
+- [`dcc9c6b`](https://github.com/ga-paul-t/uplift-demo/commit/dcc9c6ba6af07382cd5ba17a54403470a19274a0) feat: first new exciting feature
+- [`1cc1124`](https://github.com/ga-paul-t/uplift-demo/commit/1cc1124ad31b99a2e596fff1c4eaab80ad78e2c0) ci: configure hooks
+
 ## [0.13.0](https://github.com/ga-paul-t/uplift-demo/releases/tag/0.13.0) - 2022-05-16
 
 - [`a26f82d`](https://github.com/ga-paul-t/uplift-demo/commit/a26f82d585988e7e64dec0150a3375f6c1d1dba2) feat: first new exciting feature
