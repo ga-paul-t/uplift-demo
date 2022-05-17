@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unreleased
 
+## 0.18.0 - 2022-05-17
+
+- `9d33e1c` feat: first new exciting feature
+- `c655999` Merge branch main of https://github.com/ga-paul-t/uplift-demo
+- `4e8487a` ci: try again
+
 ## [0.17.0](https://github.com/ga-paul-t/uplift-demo/releases/tag/0.17.0) - 2022-05-17
 
 - [`c289b00`](https://github.com/ga-paul-t/uplift-demo/commit/c289b0014fe1bf2e3e9dfb7c90324aca1c82c6fe) feat: first new exciting feature
