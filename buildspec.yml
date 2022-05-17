@@ -7,7 +7,7 @@ phases:
       - curl https://raw.githubusercontent.com/gembaadvantage/uplift/main/scripts/install | bash
   pre_build:
     commands:
-      - git checkout ${CODEBUILD_SOURCE_VERSION##"refs/heads/"}
+      - git checkout $BRANCH_NAME
   build:
     commands:
       - uplift release
