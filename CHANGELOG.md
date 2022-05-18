@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unreleased
 
+## [0.19.0](https://github.com/ga-paul-t/uplift-demo/releases/tag/0.19.0) - 2022-05-18
+
+- [`20e8ea6`](https://github.com/ga-paul-t/uplift-demo/commit/20e8ea6bea4a64b389d1670712d930bce35024b8) feat: first new exciting feature
+
 ## 0.18.0 - 2022-05-17
 
 - `9d33e1c` feat: first new exciting feature
