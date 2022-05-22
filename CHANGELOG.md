@@ -10,23 +10,30 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 - [`20e8ea6`](https://github.com/ga-paul-t/uplift-demo/commit/20e8ea6bea4a64b389d1670712d930bce35024b8) feat: first new exciting feature
 
-## 0.18.0 - 2022-05-17
+## [0.18.0](https://github.com/ga-paul-t/uplift-demo/releases/tag/0.18.0) - 2022-05-17
 
-- `9d33e1c` feat: first new exciting feature
-- `c655999` Merge branch main of https://github.com/ga-paul-t/uplift-demo
-- `4e8487a` ci: try again
+- [`9d33e1c`](https://github.com/ga-paul-t/uplift-demo/commit/9d33e1c4ea610fd01532938c2273fd1871e9067e) feat: first new exciting feature
+- [`c655999`](https://github.com/ga-paul-t/uplift-demo/commit/c655999cbd5812779393ef9d23e6ed0e4fa6303f) Merge branch main of https://github.com/ga-paul-t/uplift-demo
+- [`4e8487a`](https://github.com/ga-paul-t/uplift-demo/commit/4e8487a4a460101978050c2e2cc331e7f88aa464) ci: try again
 
 ## [0.17.0](https://github.com/ga-paul-t/uplift-demo/releases/tag/0.17.0) - 2022-05-17
 
 - [`c289b00`](https://github.com/ga-paul-t/uplift-demo/commit/c289b0014fe1bf2e3e9dfb7c90324aca1c82c6fe) feat: first new exciting feature
 - [`15e8b0c`](https://github.com/ga-paul-t/uplift-demo/commit/15e8b0c0e8906894ace709dbda4fb3806e882539) ci: add a buildspec
-- [`a840532`](https://github.com/ga-paul-t/uplift-demo/commit/a840532be20694935ccf41eb6850914a4bfe0596) ci(uplift): uplifted for version 0.17.0
 - [`26ca249`](https://github.com/ga-paul-t/uplift-demo/commit/26ca24928cb1ea73277a10f699a8f819f05566a3) feat: first new exciting feature
 
 ## [0.16.0](https://github.com/ga-paul-t/uplift-demo/releases/tag/0.16.0) - 2022-05-16
 
 - [`dcc9c6b`](https://github.com/ga-paul-t/uplift-demo/commit/dcc9c6ba6af07382cd5ba17a54403470a19274a0) feat: first new exciting feature
 - [`1cc1124`](https://github.com/ga-paul-t/uplift-demo/commit/1cc1124ad31b99a2e596fff1c4eaab80ad78e2c0) ci: configure hooks
+
+## [0.15.0](https://github.com/ga-paul-t/uplift-demo/releases/tag/0.15.0) - 2022-05-16
+
+- [`1adfc16`](https://github.com/ga-paul-t/uplift-demo/commit/1adfc16512a2fd33d1fb8cb6cbbe24909db10ad7) feat: first new exciting feature
+
+## [0.14.0](https://github.com/ga-paul-t/uplift-demo/releases/tag/0.14.0) - 2022-05-16
+
+- [`9b8d9e2`](https://github.com/ga-paul-t/uplift-demo/commit/9b8d9e2668f621ef3563ac9211daf9376ebd8ab6) feat: first new exciting feature
 
 ## [0.13.0](https://github.com/ga-paul-t/uplift-demo/releases/tag/0.13.0) - 2022-05-16
 
