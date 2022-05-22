@@ -6,6 +6,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unreleased
 
+## [0.20.0](https://github.com/ga-paul-t/uplift-demo/releases/tag/0.20.0) - 2022-05-22
+
+- [`bd98081`](https://github.com/ga-paul-t/uplift-demo/commit/bd980811e9d50c1e705f257cd2fbd55437cd6003) docs: update docs
+- [`fbc2576`](https://github.com/ga-paul-t/uplift-demo/commit/fbc2576d5872817f70f81f5fb3ebaf12a8a147ba) fix: oh no another bug
+- [`3be3459`](https://github.com/ga-paul-t/uplift-demo/commit/3be34598c3424e7ba09a3e04f6b9cda3eea58de2) feat: whoo a new feature
+- [`22c2045`](https://github.com/ga-paul-t/uplift-demo/commit/22c20451b4076437b4d8d913183feef1e9217208) fix: a bug fix
+- [`cfd408e`](https://github.com/ga-paul-t/uplift-demo/commit/cfd408e346504148942f873f885abc672b55b6fc) docs: updated documentation
+- [`77541c2`](https://github.com/ga-paul-t/uplift-demo/commit/77541c294e9eadf806bbd3e539b53ebe87453942) ci: some tweaks
+- [`20ade90`](https://github.com/ga-paul-t/uplift-demo/commit/20ade907a1aa9d39833a9554d4f923f338f3e5d2) ci(uplift): uplifted for version
+
 ## [0.19.0](https://github.com/ga-paul-t/uplift-demo/releases/tag/0.19.0) - 2022-05-18
 
 - [`20e8ea6`](https://github.com/ga-paul-t/uplift-demo/commit/20e8ea6bea4a64b389d1670712d930bce35024b8) feat: first new exciting feature
