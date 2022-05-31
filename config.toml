@@ -1,4 +1,5 @@
+
 [package]
   description = "A tool to test markdown files and drive development from documentation."
   name = "specdown"
-  version = "0.26.0"
+  version = "0.27.0"
