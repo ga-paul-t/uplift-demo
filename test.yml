@@ -1,4 +1,4 @@
 properties:
-  name: blah
   metadata:
-    version: "1.0.0"
+    version: 0.26.0
+  name: blah
