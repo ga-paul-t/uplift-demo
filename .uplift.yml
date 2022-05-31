@@ -3,3 +3,12 @@ bumps:
     file: version.json
     paths:
       - ".version"
+
+  - file: config.toml
+    paths:
+      - ".package.version"
+
+  - file: test.yml
+    paths:
+      - path: ".properties.metadata.version"
+        semver: no
