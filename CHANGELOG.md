@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unreleased
 
+## 0.28.0 - 2022-09-27
+
+- `5f21557` ci: remove config file
+- `0cdbb9a` feat: first new exciting feature
+
 ## [0.27.0](https://github.com/ga-paul-t/uplift-demo/releases/tag/0.27.0) - 2022-05-31
 
 - [`b41ac69`](https://github.com/ga-paul-t/uplift-demo/commit/b41ac699414cc63a31ce4da6d5bb84242969eacd) feat: first new exciting feature
