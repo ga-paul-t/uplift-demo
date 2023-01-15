@@ -3,3 +3,8 @@ git:
     - ci.skip
     - option: ci.variable="MAX_RETRIES=10"
       skipTag: true
+
+bumps:
+  - file: version.json
+    json:
+      - path: version
