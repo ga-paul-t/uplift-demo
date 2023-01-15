@@ -1,0 +1,5 @@
+git:
+  pushOptions:
+    - ci.skip
+    - option: ci.variable="MAX_RETRIES=10"
+      skipTag: true
